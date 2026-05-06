@@ -1,0 +1,4 @@
+split,speakers,utterances,emotions,unique_texts
+train,10,13300,4,480
+validation,10,200,4,157
+test,10,500,4,284
